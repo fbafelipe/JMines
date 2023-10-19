@@ -1,0 +1,1 @@
+Assets where taken from [KMines](https://apps.kde.org/kmines)
