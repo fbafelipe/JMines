@@ -2,6 +2,10 @@
 This is a simple implementation of the Minesweeper game. It is possible to play the game and it also features an auto solver.
 Keep in mind, sometimes it is not possible to logically decide the next step, in those cases the auto solver will take a random guess - so it sometimes fail!
 
+![](screenshots/jmines01.png)
+![](screenshots/jmines02.png)
+![](screenshots/jmines03.png)
+
 # Building
 To build the project run the command:
 ```shell
